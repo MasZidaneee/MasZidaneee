@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam Nur Zidane
 
-Saya adalah mahasiswa Public Relations yang juga tertarik pada web development dan data analysis. Sedang aktif mengembangkan beberapa project Laravel, React, dan Data Mining.
+Saya adalah mahasiswa Universitas Mercu Buana dengan Program Studi Teknik Informatika yang juga tertarik pada web development dan data analysis. Saya sedang aktif mengembangkan beberapa project Laravel, React, dan Data Mining.
 
 ## 🔗 Portofolio Project
 
