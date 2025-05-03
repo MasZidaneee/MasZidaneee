@@ -5,7 +5,7 @@ Saya adalah mahasiswa Public Relations yang juga tertarik pada web development d
 ## 🔗 Portofolio Project
 
 - 💻 [Portal Berita Laravel](https://github.com/MasZidaneee/portal-berita) – Sistem berita dengan autentikasi user & admin
-- 🤝 [Project Kolaborasi: KuyHijrah App]((https://github.com/hilmyhafizhhh/KuyHijrah-App)) – Kontribusi di bagian frontend React + Tailwind
+- 🤝 [Project Kolaborasi: KuyHijrah App](https://github.com/hilmyhafizhhh/KuyHijrah-App) – Kontribusi di bagian frontend React + Tailwind
 
 ## 📫 Kontak
 
