@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam Nur Zidane
 
-<!--
-**MasZidaneee/MasZidaneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah mahasiswa Public Relations yang juga tertarik pada web development dan data analysis. Sedang aktif mengembangkan beberapa project Laravel, React, dan Data Mining.
 
-Here are some ideas to get you started:
+## 🔗 Portofolio Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 [Portal Berita Laravel](https://github.com/MasZidaneee/portal-berita) – Sistem berita dengan autentikasi user & admin
+- 🤝 [Project Kolaborasi: KuyHijrah App](https://github.com/temanSaya/kuyhijrah-app) – Kontribusi di bagian frontend React + Tailwind
+
+## 📫 Kontak
+
+- 📧 Email: adamnurzidane025@email.com
+- 🌐 LinkedIn: [linkedin.com/in/adam-nur-zidane][(https://www.linkedin.com/in/adam-nur-zidane/)
